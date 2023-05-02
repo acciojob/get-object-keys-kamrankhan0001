@@ -1,5 +1,5 @@
-your JS code here. If required.
-creating an object called student with a property called name
+// your JS code here. If required.
+// creating an object called student with a property called name
 const student = {
   name: 'John Doe'
 };
