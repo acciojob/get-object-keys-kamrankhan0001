@@ -11,4 +11,4 @@ Object.prototype.getKeys = function() {
 
 // calling getKeys() on the student object
 console.log(student.getKeys()); // ['name']
-//
+
