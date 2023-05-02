@@ -16,3 +16,4 @@ const student = {name:'kamran'};
 object.prototype.getkey=function(){
 	return object.keys(this)
 }
+console.log(student.getKeys());
